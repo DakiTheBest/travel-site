@@ -48,5 +48,9 @@ header a {
 
 header a:hover {
   color: rgb(77, 77, 77);
-  background-color: rgb(255, 251, 0);
+  background-color: rgba(255, 251, 0, 0.75);
+}
+
+main {
+  background-color: rgb(40, 152, 172);
 }
