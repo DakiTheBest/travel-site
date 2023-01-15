@@ -50,3 +50,14 @@ header a:hover {
   color: rgb(77, 77, 77);
   background-color: rgba(255, 251, 0, 0.75);
 }
+
+#destinations {
+  display: flex;
+  width: 90%;
+  margin: auto;
+  margin-bottom: 40px;
+}
+
+.destination img {
+  height: 200px;
+}
