@@ -9,7 +9,7 @@ header {
 
 main ul {
   width: 1200px;
-  margin: 0 auto;
+  margin: 0 auto 48px auto;
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 20px;
@@ -53,8 +53,4 @@ main li img {
 
 .actions a:hover {
   background-color: rgb(235, 253, 255);
-}
-
-footer {
-    margin-top: 20px;
 }
